@@ -1,0 +1,101 @@
+[
+  {
+    "modelo": "XVR1B04-I-B",
+    "name": "DVR 4 Canales / Pentahíbrido / H.265+ / Hasta 4 cámaras 2 mpx + 1 IP / SMD plus / Soporta 1 Disco rígido hasta 6TB.",
+    "category": "DVR / XVR 4CH",
+    "buyPrice": 54.0,
+    "sellPrice": 0.0,
+    "stock": 0,
+    "imageUrl": ""
+  },
+  {
+    "modelo": "XVR1B04H-I",
+    "name": "Dvr 4 Canales / Pentahíbrido / Smart H.265+ / Hasta 4 cámaras 5 mpx + 2 IP / Admite 4ch SMD Plus / Soporta 1 Disco rígido hasta 6tb.",
+    "category": "DVR / XVR 4CH",
+    "buyPrice": 86.4,
+    "sellPrice": 0.0,
+    "stock": 0,
+    "imageUrl": ""
+  },
+  {
+    "modelo": "XVR1B08-I",
+    "name": "Dvr 8 Canales / Pentahíbrido / H.265+/ Hasta 8 cámaras 2 mpx + 2 IP / 4ch SMD plus / Soporta 1 Disco rígido hasta 6TB.",
+    "category": "DVR / XVR 8CH",
+    "buyPrice": 66.0,
+    "sellPrice": 0.0,
+    "stock": 0,
+    "imageUrl": ""
+  },
+  {
+    "modelo": "XVR1B08H-I",
+    "name": "Dvr 8 Canales / Pentahíbrido / Smart H.265+ / Hasta 8 cámaras 5 mpx + 4 IP / 8ch SMD Plus / Soporta 1 Disco rígido hasta 6TB.",
+    "category": "DVR / XVR 8CH",
+    "buyPrice": 110.13,
+    "sellPrice": 0.0,
+    "stock": 0,
+    "imageUrl": ""
+  },
+  {
+    "modelo": "XVR5208A-4KL-I3",
+    "name": "Grabadora de video digital WizSense de 8 canales, 4K Value/5 MP, 1U, 2 discos duros",
+    "category": "DVR / XVR 8CH",
+    "buyPrice": 300.93,
+    "sellPrice": 0.0,
+    "stock": 0,
+    "imageUrl": ""
+  },
+  {
+    "modelo": "XVR1B16-I",
+    "name": "Dvr 16 Canales / Compresión de video H.265+/H.265 / Admite entradas de video HDCVI/AHD/TVI/CVBS/IP; Hasta 16 cámaras 2mpx + 2 IP / Admite codifica...",
+    "category": "DVR / XVR 16CH",
+    "buyPrice": 129.6,
+    "sellPrice": 0.0,
+    "stock": 0,
+    "imageUrl": ""
+  },
+  {
+    "modelo": "XVR1B16H-I",
+    "name": "Pentahíntifo; H.265+; Ancho de banda entrante max 128mbps; SMD Plus de hasta 16 ch analogicos; Funciones de POS; Hasta 16 cámaras 5mpx + 4 IP; Sop...",
+    "category": "DVR / XVR 16CH",
+    "buyPrice": 224.25,
+    "sellPrice": 0.0,
+    "stock": 0,
+    "imageUrl": ""
+  },
+  {
+    "modelo": "XVR4232AN-I",
+    "name": "H.265+ / 2mpx / Ancho de banda max. hasta 128Mbps / Soporta 2 HDD de hasta 16tb c/u.",
+    "category": "DVR / XVR 32CH",
+    "buyPrice": 443.07,
+    "sellPrice": 0.0,
+    "stock": 0,
+    "imageUrl": ""
+  },
+  {
+    "modelo": "XVR5232AN-I3",
+    "name": "Dvr 32 canales / 5mpx / Compresión de video H.265+ / Admite 2 ch analog. reconocimiento facial; Soporta 2 Discos rígidos de hasta 16tb.",
+    "category": "DVR / XVR 32CH",
+    "buyPrice": 632.7,
+    "sellPrice": 0.0,
+    "stock": 0,
+    "imageUrl": ""
+  },
+  {
+    "modelo": "B1A21P",
+    "name": "Bullet plástica / 2 mpx / Max. 30fps@1080P / IR 20m / IP67.",
+    "category": "CÁMARAS 2MPX",
+    "buyPrice": 18.3,
+    "sellPrice": 0.0,
+    "stock": 0,
+    "imageUrl": ""
+  },
+  {
+    "modelo": "T1A21P-U",
+    "name": "Domo plastico / 4 en 1 / 2 mpx / Max 30fps @ 1080p / IR 20 m.",
+    "category": "CÁMARAS 2MPX",
+    "buyPrice": 16.8,
+    "sellPrice": 0.0,
+    "stock": 0,
+    "imageUrl": ""
+  }
+]
