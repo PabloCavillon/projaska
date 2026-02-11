@@ -1,4 +1,6 @@
-import React, { Fragment } from 'react';
+'use client';
+
+import { Fragment } from 'react';
 import products from '../../data/products.json';
 
 export default function Products() {
