@@ -27,7 +27,14 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {children}
+        {process.env.MAINTENANCE_MODE === "true" ? (
+          <main className="min-h-screen flex flex-col items-center justify-center gap-4 p-6 text-center">
+            <h1 className="text-3xl font-bold">Estamos actualizando precios</h1>
+            <p className="text-lg">Volvemos en unos minutos. Gracias por la paciencia.</p>
+          </main>
+        ) : (
+          children
+        )}
       </body>
     </html>
   );
